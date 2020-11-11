@@ -1,0 +1,55 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifytest-dev-172539-authRole",
+      "UnauthRoleArn": "arn:aws:iam::981537499700:role/amplify-amplifytest-dev-172539-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::981537499700:role/amplify-amplifytest-dev-172539-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifytest-dev-172539-deployment",
+      "UnauthRoleName": "amplify-amplifytest-dev-172539-unauthRole",
+      "StackName": "amplify-amplifytest-dev-172539",
+      "StackId": "arn:aws:cloudformation:us-east-1:981537499700:stack/amplify-amplifytest-dev-172539/e39a2ad0-1f48-11eb-bf1a-125caf34a739",
+      "AmplifyAppId": "d28e64hqu8c6nd"
+    },
+    "categories": {
+      "auth": {
+        "amplifytest3f67392a": {},
+        "userPoolGroups": {},
+        "amplifytest23ab54a2": {
+          "userPoolId": "us-east-1_vWx3u2t0b",
+          "userPoolName": "nowl-protect-user-pool-dev",
+          "webClientId": "2j725kgnbt3nk8ka4mef6vd6am",
+          "nativeClientId": "13pqi0hsnq8lhl8qqu8epf0ga6",
+          "hostedUIProviderCreds": "[]"
+        },
+        "amplifytest4916478d": {}
+      }
+    }
+  },
+  "stage": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifytest-stage-151201-authRole",
+      "UnauthRoleArn": "arn:aws:iam::981537499700:role/amplify-amplifytest-stage-151201-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::981537499700:role/amplify-amplifytest-stage-151201-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifytest-stage-151201-deployment",
+      "UnauthRoleName": "amplify-amplifytest-stage-151201-unauthRole",
+      "StackName": "amplify-amplifytest-stage-151201",
+      "StackId": "arn:aws:cloudformation:us-east-1:981537499700:stack/amplify-amplifytest-stage-151201/099fe240-2324-11eb-97ad-0e92a46f2873",
+      "AmplifyAppId": "d28e64hqu8c6nd"
+    },
+    "categories": {
+      "auth": {
+        "amplifytest3f67392a": {},
+        "userPoolGroups": {},
+        "amplifytest23ab54a2": {
+          "userPoolId": "us-east-1_RE647Cind",
+          "userPoolName": "nowl-protect-user-pool-staging",
+          "webClientId": "2laevqv4tln368oeh7cghvkjga",
+          "nativeClientId": "14e986c2079shvsoe1q4fpsriu",
+          "hostedUIProviderCreds": "[]"
+        }
+      }
+    }
+  }
+}
