@@ -1,13 +1,5 @@
 {
-  "auth": {
-    "amplifytesta4b78803": {
-      "service": "Cognito",
-      "serviceType": "imported",
-      "providerPlugin": "awscloudformation",
-      "dependsOn": [],
-      "customAuth": false
-    }
-  },
+  "auth": {},
   "api": {
     "amplifytest": {
       "service": "AppSync",
