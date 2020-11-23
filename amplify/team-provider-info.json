@@ -15,14 +15,21 @@
       "auth": {
         "amplifytest3f67392a": {},
         "userPoolGroups": {},
-        "amplifytest23ab54a2": {
+        "amplifytest4916478d": {},
+        "amplifytest793859be": {
           "userPoolId": "us-east-1_vWx3u2t0b",
           "userPoolName": "nowl-protect-user-pool-dev",
           "webClientId": "2j725kgnbt3nk8ka4mef6vd6am",
           "nativeClientId": "13pqi0hsnq8lhl8qqu8epf0ga6",
+          "identityPoolId": "us-east-1:159af7a5-22b6-4a77-83f9-d56dc18ae0f6",
+          "identityPoolName": "nop_identitypool_dev",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::981537499700:role/amplify-nopcloudrecording-dev-04736-unauthRole",
+          "authRoleName": "amplify-nopcloudrecording-dev-04736-unauthRole",
+          "unauthRoleArn": "arn:aws:iam::981537499700:role/amplify-nopcloudrecording-dev-04736-authRole",
+          "unauthRoleName": "amplify-nopcloudrecording-dev-04736-authRole",
           "hostedUIProviderCreds": "[]"
-        },
-        "amplifytest4916478d": {}
+        }
       }
     }
   },
@@ -42,11 +49,18 @@
       "auth": {
         "amplifytest3f67392a": {},
         "userPoolGroups": {},
-        "amplifytest23ab54a2": {
+        "amplifytesta4b78803": {
           "userPoolId": "us-east-1_RE647Cind",
           "userPoolName": "nowl-protect-user-pool-staging",
           "webClientId": "2laevqv4tln368oeh7cghvkjga",
           "nativeClientId": "14e986c2079shvsoe1q4fpsriu",
+          "identityPoolId": "us-east-1:47d62b1a-013f-4a2c-b00e-d1324d99bb76",
+          "identityPoolName": "nop_identifypool_stage",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::981537499700:role/amplify-nopcloudrecording-stage-142044-unauthRole",
+          "authRoleName": "amplify-nopcloudrecording-stage-142044-unauthRole",
+          "unauthRoleArn": "arn:aws:iam::981537499700:role/amplify-nopcloudrecording-stage-142044-authRole",
+          "unauthRoleName": "amplify-nopcloudrecording-stage-142044-authRole",
           "hostedUIProviderCreds": "[]"
         }
       }
